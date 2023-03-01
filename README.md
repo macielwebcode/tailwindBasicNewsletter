@@ -1,10 +1,12 @@
 # tailwindBasicNewsletter
+Página com um form newsletter aplicando conceitos básicos de tailwindcss.
 
-Página com um form newsletter aplicando conceitos básicos de tailwind
+## Descrição
+Projeto feito com HTML e Tailwind tailwindcss apresentando o uso báisco do framework tailwindcss para trnsformar componentes e tornar uma página responsiva.
 
-
-Html
-Tailwindcss
-Tailwind
-CSS
+✔️ Técnicas e tecnologias utilizadas
+- ``HTML``
+- ``CSS``
+- ``Tailwind``
+- ``tailwindcss``
 
