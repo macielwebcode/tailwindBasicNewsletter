@@ -20,5 +20,5 @@ Projeto feito com HTML e Tailwindcss apresentando o uso báisco do framework tai
 - `Funcionalidade 2`: uso do tailwind
 
 ## Deploy da Aplicação
-- ``Link do projeto online:` https://tailwind-basic-newsletter-46yp.vercel.app/
+- ``Link do projeto online:`` https://tailwind-basic-newsletter-46yp.vercel.app/
 
