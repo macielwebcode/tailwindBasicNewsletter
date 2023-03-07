@@ -7,7 +7,7 @@ Página com um form newsletter aplicando conceitos básicos de tailwindcss.
 Status do Projeto: ✔️ (concluido)
 
 ## Descrição
-Projeto feito com HTML e Tailwindcss apresentando o uso báisco do framework tailwindcss para trnsformar componentes e tornar uma página responsiva.
+Projeto feito com HTML e Tailwindcss apresentando o uso básico do framework tailwindcss para transformar componentes e tornar uma página responsiva.
 
 ✔️ Técnicas e tecnologias utilizadas
 - ``HTML``
