@@ -1,5 +1,5 @@
-# tailwindBasicNewsletter
-Página com um form newsletter aplicando conceitos básicos de tailwindcss.
+## Tailwind Basic Newsletter
+Página com um form newsletter estático aplicando conceitos básicos de tailwindcss.
 
 <img src="https://img.shields.io/static/v1?label=tailwindcss&message=framework&color=blue&style=for-the-badge&logo=TAILWINDCSS"/>
 <img src="https://img.shields.io/static/v1?label=Vercel&message=deploy&color=blue&style=for-the-badge&logo=VERCEL"/>
